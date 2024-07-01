@@ -1,0 +1,2 @@
+Nano is a simple, user-friendly text editor for Unix-like operating systems.
+ It's designed to be easy to use for beginners while still providing powerful editing capabilities
